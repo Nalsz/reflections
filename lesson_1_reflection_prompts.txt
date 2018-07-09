@@ -32,7 +32,7 @@ Now that you have your workspace set up, what do you want to try using Git for?
 
 Commands:
 mv location of file | to move files from the location of file to the directory git bash is
-
+        eg  mv Downloads/git-completion.bash.txt git-completion.bash
 q |    exit git log!
 git log  |    List the commits and show which files have changed
 git log --stat  |    Show addition information about the commits
