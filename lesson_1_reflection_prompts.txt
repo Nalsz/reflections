@@ -29,6 +29,8 @@ could break something?
 Now that you have your workspace set up, what do you want to try using Git for?
 
     Fill in your answer here
+    
+Shortcut to open default text editor:  alias subl="C:/Program\ Files/Sublime\ Text\ 2/sublime_text.exe"
 
 Commands:
 mv location of file | to move files from the location of file to the directory git bash is
