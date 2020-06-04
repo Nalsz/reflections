@@ -45,7 +45,7 @@ Shortcut to open default text editor:  alias subl="C:/Program\ Files/Sublime\ Te
 Commands:
 mv location of file | to move files from the location of file to the directory git bash is
         eg  mv Downloads/git-completion.bash.txt git-completion.bash
-git init | Initializes{makes} a folder to be under git
+git init | Initializes{makes} a folder to be under git/ Creates a repository
 q |    exit git log!
 git log  |    List the commits and show which files have changed
 git log --stat  |    Show addition information about the commits
